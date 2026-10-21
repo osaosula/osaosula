@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Osahon 👋
 
 Senior software engineer with **18+ years** building production systems across

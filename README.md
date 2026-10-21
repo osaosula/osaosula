@@ -18,7 +18,7 @@ still do my best work close to the code.
   PostgreSQL, Flyway. Winners are derived from a SecureRandom seed via HMAC-SHA256,
   so any player can independently verify a draw. Wallet, refund-on-cancel and payout
   paths are tested against real Postgres rather than an in-memory stand-in.
-- **P2P betting exchange** *(co-founded, prototype)* — players bet against each
+- **P2P betting exchange** *(prototype)* — players bet against each
   other rather than the house; sports markets and social wagers.
 - **Community association platform** — membership, levies, billing and project
   tracking for a residents' association in Lagos.

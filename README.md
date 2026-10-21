@@ -31,7 +31,7 @@ still do my best work close to the code.
 
 ### Stack
 `Java` `Spring Boot` `TypeScript` `React` `Next.js` `PostgreSQL` `MySQL` `MongoDB`
-`Docker` `AWS` `Flyway` `JUnit` `Vitest`
+`Docker` `AWS` `JUnit` `Vitest`
 
 *Most of my work lives in private repositories. Happy to walk through any of it.*
 <!--
